@@ -1,0 +1,93 @@
+string filename1 = "dlPFCstim_JOYSTICK_DATA";
+string filename2 = "dlPFCstim_JOYSTICK_START_TIMES";
+output_file out1 = new output_file;
+output_file out2 = new output_file;
+out1.open_append(filename1 + ".txt");
+out2.open_append(filename2 + ".txt");
+
+joystick stick = response_manager.get_joystick( 1 ); 
+
+# set joystick parameters
+stick.set_min_max( 1, -18, 18 ); 
+stick.set_min_max( 2, -10, 10 );
+stick.set_saturation( 1, 1 );
+stick.set_saturation( 2, 1 );
+stick.set_dead_zone( 1, 0.2 ); 
+stick.set_dead_zone( 2, 0.2 );
+
+#set target positions for conditions
+array<double> target_positionx[4];
+array<double> target_positiony[4];
+target_positionx[1]=0;
+target_positiony[1]=4.8;
+target_positionx[2]=0;
+target_positiony[2]=-4.8;
+target_positionx[3]=4.8;
+target_positiony[3]=0;
+target_positionx[4]=-4.8;
+target_positiony[4]=0;
+
+#sets the conditions
+array<int> condition[28];
+int condition_assign_counter = 1;
+loop
+	condition_assign_counter = 1
+until 
+	condition_assign_counter > 7
+begin
+	condition[condition_assign_counter]=1; #sets 0,4.8 blocks
+	condition_assign_counter = condition_assign_counter + 1;
+end;
+loop
+	condition_assign_counter = 7
+until 
+	condition_assign_counter > 14
+begin
+	condition[condition_assign_counter]=2; #sets 0,-4.8 blocks
+	condition_assign_counter = condition_assign_counter + 1;
+end;
+loop
+	condition_assign_counter = 15
+until 
+	condition_assign_counter > 21
+begin
+	condition[condition_assign_counter]=3; #sets 4.8,0 blocks
+	condition_assign_counter = condition_assign_counter + 1;
+end;
+loop
+	condition_assign_counter = 21
+until 
+	condition_assign_counter > 28
+begin
+	condition[condition_assign_counter]=4; #sets -4.8,0 blocks
+	condition_assign_counter = condition_assign_counter + 1;
+end;
+condition.shuffle();
+condition.shuffle();
+condition.shuffle();
+
+#sets the block and trial numbers. 
+int trial_count = 2; 
+
+# move boxes according to joystick movement
+int location_x = 0;
+int location_y = 0;
+pic1.set_part_x( 2, target_positionx[condition[trial_count]] );
+pic1.set_part_y( 2, target_positiony[condition[trial_count]] );
+
+loop until false begin  
+   stick.poll();
+	pic1.set_part_x( 1, stick.x());
+   pic1.set_part_y( 1, stick.y());
+	out1.print(logfile.subject());
+   out1.print(",");
+	out1.print(trial_count);    
+	out1.print(",");
+	out1.print(stick.x());
+	out1.print(",");
+	out1.print(stick.y());
+	out1.print("\n");
+
+   pic1.present()
+end
+      
