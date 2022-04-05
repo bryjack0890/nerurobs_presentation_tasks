@@ -1,0 +1,315 @@
+Scenario - First-order Rule trial
+Logfile written - 06/04/2016 17:56:22
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+Bryan	0	Pulse	0	0	0	NA
+Bryan	1	Pulse	0	20000	19833	NA
+Bryan	1	Response	5	26340	26172	0
+Bryan	1	Pulse	0	40000	39833	NA
+Bryan	1	Pulse	0	60000	59833	NA
+Bryan	2	Pulse	0	80000	19919	NA
+Bryan	2	Pulse	0	100000	39919	NA
+Bryan	2	Pulse	0	120000	59919	NA
+Bryan	2	Pulse	0	140000	79919	NA
+Bryan	2	Pulse	0	160000	99919	NA
+Bryan	3	Picture	jitter1	160159	0	1	22760	1	0	next	other	0
+Bryan	3	Pulse	0	180000	19841	NA
+Bryan	3	Picture	1	182920	22760	1	5021	1	22710	5000	other	0
+Bryan	3	Picture	jitter2	187940	27781	1	12384	1	27710	12290	other	0
+Bryan	3	Pulse	0	200000	39841	NA
+Bryan	4	Picture	jitter3	200325	0	1	17070	1	0	next	other	0
+Bryan	4	Picture	go	217395	17070	1	2678	1	16890	2500	other	0
+Bryan	4	Pulse	0	220000	19675	NA
+Bryan	4	Picture	24	220073	19748	1	9707	1	19390	10000	miss	0
+Bryan	5	Picture	miss	229779	0	1	2678	1	0	next	other	0
+Bryan	5	Picture	jitter4	232457	2678	1	8033	1	2500	8110	other	0
+Bryan	5	Pulse	0	240000	10221	NA
+Bryan	6	Picture	jitter1	240490	0	1	22258	1	0	next	other	0
+Bryan	6	Pulse	0	260000	19510	NA
+Bryan	6	Picture	2	262748	22258	1	5021	1	22220	5000	other	0
+Bryan	6	Picture	jitter2	267769	27279	1	12886	1	27220	12780	other	0
+Bryan	6	Pulse	0	280000	39510	NA
+Bryan	7	Picture	jitter3	280655	0	1	6862	1	0	next	other	0
+Bryan	7	Picture	go	287517	6862	1	2678	1	6690	2500	other	0
+Bryan	7	Picture	2	290195	9539	1	9707	1	9190	10000	miss	0
+Bryan	8	Picture	miss	299901	0	1	2678	1	0	next	other	0
+Bryan	8	Pulse	0	300000	99	NA
+Bryan	8	Picture	jitter4	302579	2678	1	18242	1	2500	18310	other	0
+Bryan	8	Pulse	0	320000	20099	NA
+Bryan	9	Picture	jitter1	320821	0	1	31798	1	0	next	other	0
+Bryan	9	Pulse	0	340000	19179	NA
+Bryan	9	Picture	1	352618	31798	1	5021	1	31720	5000	other	0
+Bryan	9	Picture	jitter2	357639	36818	1	3347	1	36720	3280	other	0
+Bryan	9	Pulse	0	360000	39179	NA
+Bryan	10	Picture	jitter3	360986	0	1	21087	1	0	next	other	0
+Bryan	10	Pulse	0	380000	19014	NA
+Bryan	10	Picture	go	382073	21087	1	2678	1	21000	2500	other	0
+Bryan	10	Picture	5	384751	23765	1	9874	1	23500	10000	miss	0
+Bryan	11	Picture	miss	394625	0	1	2678	1	0	next	other	0
+Bryan	11	Picture	jitter4	397302	2678	1	3849	1	2500	4000	other	0
+Bryan	11	Pulse	0	400000	5375	NA
+Bryan	12	Picture	jitter1	401152	0	1	28450	1	0	next	other	0
+Bryan	12	Pulse	0	420000	18848	NA
+Bryan	12	Picture	1	429602	28450	1	5021	1	28330	5000	other	0
+Bryan	12	Picture	jitter2	434623	33471	1	6694	1	33330	6670	other	0
+Bryan	12	Pulse	0	440000	38848	NA
+Bryan	13	Picture	jitter3	441317	0	1	6862	1	0	next	other	0
+Bryan	13	Picture	go	448178	6862	1	2678	1	6740	2500	other	0
+Bryan	13	Picture	11	450856	9539	1	9874	1	9240	10000	miss	0
+Bryan	13	Pulse	0	460000	18683	NA
+Bryan	14	Picture	miss	460730	0	1	2678	1	0	next	other	0
+Bryan	14	Picture	jitter4	463408	2678	1	18242	1	2500	18260	other	0
+Bryan	14	Pulse	0	480000	19270	NA
+Bryan	15	Picture	jitter1	481650	0	1	31128	1	0	next	other	0
+Bryan	15	Pulse	0	500000	18350	NA
+Bryan	15	Picture	3	512778	31128	1	5021	1	31090	5000	other	0
+Bryan	15	Picture	jitter2	517798	36149	1	4017	1	36090	3910	other	0
+Bryan	15	Pulse	0	520000	38350	NA
+Bryan	16	Picture	jitter3	521815	0	1	10376	1	0	next	other	0
+Bryan	16	Picture	go	532191	10376	1	2678	1	10290	2500	other	0
+Bryan	16	Picture	7	534869	13054	1	9874	1	12790	10000	miss	0
+Bryan	16	Pulse	0	540000	18185	NA
+Bryan	17	Picture	miss	544743	0	1	2678	1	0	next	other	0
+Bryan	17	Picture	jitter4	547420	2678	1	14560	1	2500	14710	other	0
+Bryan	17	Pulse	0	560000	15257	NA
+Bryan	18	Picture	jitter1	561980	0	1	4853	1	0	next	other	0
+Bryan	18	Picture	2	566834	4853	1	5021	1	4790	5000	other	0
+Bryan	18	Picture	jitter2	571854	9874	1	30291	1	9790	30210	other	0
+Bryan	18	Pulse	0	580000	18020	NA
+Bryan	18	Pulse	0	600000	38020	NA
+Bryan	19	Picture	jitter3	602146	0	1	16903	1	0	next	other	0
+Bryan	19	Picture	go	619049	16903	1	2678	1	16870	2500	other	0
+Bryan	19	Pulse	0	620000	17854	NA
+Bryan	19	Picture	22	621726	19581	1	9874	1	19370	10000	miss	0
+Bryan	20	Picture	miss	631600	0	1	2678	1	0	next	other	0
+Bryan	20	Picture	jitter4	634278	2678	1	8033	1	2500	8130	other	0
+Bryan	20	Pulse	0	640000	8400	NA
+Bryan	21	Picture	jitter1	642311	0	1	23932	1	0	next	other	0
+Bryan	21	Pulse	0	660000	17689	NA
+Bryan	21	Picture	4	666243	23932	1	5021	1	23860	5000	other	0
+Bryan	21	Picture	jitter2	671264	28953	1	11213	1	28860	11140	other	0
+Bryan	21	Pulse	0	680000	37689	NA
+Bryan	22	Picture	jitter3	682476	0	1	15229	1	0	next	other	0
+Bryan	22	Picture	go	697706	15229	1	2678	1	15120	2500	other	0
+Bryan	22	Pulse	0	700000	17524	NA
+Bryan	22	Picture	3	700384	17907	1	9874	1	17620	10000	miss	0
+Bryan	23	Picture	miss	710258	0	1	2678	1	0	next	other	0
+Bryan	23	Picture	jitter4	712935	2678	1	9874	1	2500	9880	other	0
+Bryan	23	Pulse	0	720000	9743	NA
+Bryan	24	Picture	jitter1	722809	0	1	30626	1	0	next	other	0
+Bryan	24	Pulse	0	740000	17191	NA
+Bryan	24	Picture	3	753435	30626	1	5021	1	30570	5000	other	0
+Bryan	24	Picture	jitter2	758456	35647	1	4519	1	35570	4430	other	0
+Bryan	24	Pulse	0	760000	37191	NA
+Bryan	25	Picture	jitter3	762975	0	1	16234	1	0	next	other	0
+Bryan	25	Picture	go	779208	16234	1	2678	1	16210	2500	other	0
+Bryan	25	Pulse	0	780000	17025	NA
+Bryan	25	Picture	5	781886	18911	1	9874	1	18710	10000	miss	0
+Bryan	26	Picture	miss	791760	0	1	2678	1	0	next	other	0
+Bryan	26	Picture	jitter4	794437	2678	1	8703	1	2500	8790	other	0
+Bryan	26	Pulse	0	800000	8240	NA
+Bryan	27	Picture	jitter1	803140	0	1	2510	1	0	next	other	0
+Bryan	27	Picture	2	805650	2510	1	5021	1	2370	5000	other	0
+Bryan	27	Picture	jitter2	810671	7531	1	32634	1	7370	32630	other	0
+Bryan	27	Pulse	0	820000	16860	NA
+Bryan	27	Pulse	0	840000	36860	NA
+Bryan	28	Picture	jitter3	843305	0	1	19246	1	0	next	other	0
+Bryan	28	Pulse	0	860000	16695	NA
+Bryan	28	Picture	go	862551	19246	1	2678	1	19160	2500	other	0
+Bryan	28	Picture	2	865229	21924	1	9874	1	21660	10000	miss	0
+Bryan	29	Picture	miss	875103	0	1	2678	1	0	next	other	0
+Bryan	29	Picture	jitter4	877781	2678	1	5690	1	2500	5840	other	0
+Bryan	29	Pulse	0	880000	4897	NA
+Bryan	30	Picture	jitter1	883471	0	1	31630	1	0	next	other	0
+Bryan	30	Pulse	0	900000	16529	NA
+Bryan	30	Picture	3	915101	31630	1	5021	1	31590	5000	other	0
+Bryan	30	Pulse	0	920000	36529	NA
+Bryan	30	Picture	jitter2	920122	36651	1	3514	1	36590	3410	other	0
+Bryan	31	Picture	jitter3	923636	0	1	5188	1	0	next	other	0
+Bryan	31	Picture	go	928824	5188	1	2678	1	5050	2500	other	0
+Bryan	31	Picture	1	931502	7866	1	9707	1	7550	10000	miss	0
+Bryan	31	Pulse	0	940000	16364	NA
+Bryan	32	Picture	miss	941208	0	1	2678	1	0	next	other	0
+Bryan	32	Picture	jitter4	943886	2678	1	19915	1	2500	19950	other	0
+Bryan	32	Pulse	0	960000	18792	NA
+Bryan	33	Picture	jitter1	963801	0	1	18911	1	0	next	other	0
+Bryan	33	Pulse	0	980000	16199	NA
+Bryan	33	Picture	1	982713	18911	1	5021	1	18770	5000	other	0
+Bryan	33	Picture	jitter2	987733	23932	1	16234	1	23770	16230	other	0
+Bryan	33	Pulse	0	1000000	36199	NA
+Bryan	34	Picture	jitter3	1003967	0	1	22258	1	0	next	other	0
+Bryan	34	Pulse	0	1020000	16033	NA
+Bryan	34	Picture	go	1026225	22258	1	2678	1	22170	2500	other	0
+Bryan	34	Picture	12	1028903	24936	1	9874	1	24670	10000	miss	0
+Bryan	35	Picture	miss	1038777	0	1	2678	1	0	next	other	0
+Bryan	35	Pulse	0	1040000	1223	NA
+Bryan	35	Picture	jitter4	1041454	2678	1	2678	1	2500	2830	other	0
+Bryan	36	Picture	jitter1	1044132	0	1	11213	1	0	next	other	0
+Bryan	36	Picture	1	1055345	11213	1	5021	1	11140	5000	other	0
+Bryan	36	Pulse	0	1060000	15868	NA
+Bryan	36	Picture	jitter2	1060366	16234	1	23932	1	16140	23860	other	0
+Bryan	36	Pulse	0	1080000	35868	NA
+Bryan	37	Picture	jitter3	1084297	0	1	9707	1	0	next	other	0
+Bryan	37	Picture	go	1094004	9707	1	2678	1	9620	2500	other	0
+Bryan	37	Picture	24	1096682	12384	1	9874	1	12120	10000	miss	0
+Bryan	37	Pulse	0	1100000	15703	NA
+Bryan	38	Picture	miss	1106556	0	1	2678	1	0	next	other	0
+Bryan	38	Picture	jitter4	1109233	2678	1	15229	1	2500	15380	other	0
+Bryan	38	Pulse	0	1120000	13444	NA
+Bryan	39	Picture	jitter1	1124463	0	1	14225	1	0	next	other	0
+Bryan	39	Picture	3	1138688	14225	1	5021	1	14040	5000	other	0
+Bryan	39	Pulse	0	1140000	15537	NA
+Bryan	39	Picture	jitter2	1143709	19246	1	20919	1	19040	20960	other	0
+Bryan	39	Pulse	0	1160000	35537	NA
+Bryan	40	Picture	jitter3	1164628	0	1	20417	1	0	next	other	0
+Bryan	40	Pulse	0	1180000	15372	NA
+Bryan	40	Picture	go	1185046	20417	1	2678	1	20350	2500	other	0
+Bryan	40	Picture	7	1187723	23095	1	9874	1	22850	10000	miss	0
+Bryan	41	Picture	miss	1197597	0	1	2678	1	0	next	other	0
+Bryan	41	Pulse	0	1200000	2403	NA
+Bryan	41	Picture	jitter4	1200275	2678	1	4519	1	2500	4650	other	0
+Bryan	42	Picture	jitter1	1204794	0	1	1841	1	0	next	other	0
+Bryan	42	Picture	3	1206634	1841	1	5021	1	1790	5000	other	0
+Bryan	42	Picture	jitter2	1211655	6862	1	33304	1	6790	33210	other	0
+Bryan	42	Pulse	0	1220000	15206	NA
+Bryan	42	Pulse	0	1240000	35206	NA
+Bryan	43	Picture	jitter3	1244959	0	1	18744	1	0	next	other	0
+Bryan	43	Pulse	0	1260000	15041	NA
+Bryan	43	Picture	go	1263703	18744	1	2678	1	18630	2500	other	0
+Bryan	43	Picture	14	1266380	21422	1	9874	1	21130	10000	miss	0
+Bryan	44	Picture	miss	1276254	0	1	2678	1	0	next	other	0
+Bryan	44	Picture	jitter4	1278932	2678	1	6360	1	2500	6370	other	0
+Bryan	44	Pulse	0	1280000	3746	NA
+Bryan	45	Picture	jitter1	1285292	0	1	30459	1	0	next	other	0
+Bryan	45	Pulse	0	1300000	14708	NA
+Bryan	45	Picture	1	1315750	30459	1	5021	1	30390	5000	other	0
+Bryan	45	Pulse	0	1320000	34708	NA
+Bryan	45	Picture	jitter2	1320771	35479	1	4686	1	35390	4610	other	0
+Bryan	46	Picture	jitter3	1325457	0	1	18911	1	0	next	other	0
+Bryan	46	Pulse	0	1340000	14543	NA
+Bryan	46	Picture	go	1344368	18911	1	2678	1	18870	2500	other	0
+Bryan	46	Picture	25	1347046	21589	1	9874	1	21370	10000	miss	0
+Bryan	47	Picture	miss	1356920	0	1	2678	1	0	next	other	0
+Bryan	47	Picture	jitter4	1359598	2678	1	6025	1	2500	6130	other	0
+Bryan	47	Pulse	0	1360000	3080	NA
+Bryan	48	Picture	jitter1	1365622	0	1	3514	1	0	next	other	0
+Bryan	48	Picture	3	1369137	3514	1	5021	1	3360	5000	other	0
+Bryan	48	Picture	jitter2	1374158	8535	1	31630	1	8360	31640	other	0
+Bryan	48	Pulse	0	1380000	14378	NA
+Bryan	48	Pulse	0	1400000	34378	NA
+Bryan	49	Picture	jitter3	1405788	0	1	7196	1	0	next	other	0
+Bryan	49	Picture	go	1412984	7196	1	2678	1	7120	2500	other	0
+Bryan	49	Picture	10	1415662	9874	1	9874	1	9620	10000	miss	0
+Bryan	49	Pulse	0	1420000	14212	NA
+Bryan	50	Picture	miss	1425536	0	1	2678	1	0	next	other	0
+Bryan	50	Picture	jitter4	1428213	2678	1	17740	1	2500	17880	other	0
+Bryan	50	Pulse	0	1440000	14464	NA
+Bryan	51	Picture	jitter1	1445953	0	1	7364	1	0	next	other	0
+Bryan	51	Picture	3	1453317	7364	1	5021	1	7320	5000	other	0
+Bryan	51	Picture	jitter2	1458337	12384	1	27781	1	12320	27680	other	0
+Bryan	51	Pulse	0	1460000	14047	NA
+Bryan	51	Pulse	0	1480000	34047	NA
+Bryan	52	Picture	jitter3	1486119	0	1	2845	1	0	next	other	0
+Bryan	52	Picture	go	1488964	2845	1	2678	1	2710	2500	other	0
+Bryan	52	Picture	4	1491641	5523	1	9874	1	5210	10000	miss	0
+Bryan	52	Pulse	0	1500000	13882	NA
+Bryan	53	Picture	miss	1501515	0	1	2678	1	0	next	other	0
+Bryan	53	Picture	jitter4	1504193	2678	1	22258	1	2500	22290	other	0
+Bryan	53	Pulse	0	1520000	18485	NA
+Bryan	54	Picture	jitter1	1526451	0	1	9539	1	0	next	other	0
+Bryan	54	Picture	3	1535991	9539	1	5021	1	9410	5000	other	0
+Bryan	54	Pulse	0	1540000	13549	NA
+Bryan	54	Picture	jitter2	1541011	14560	1	25605	1	14410	25590	other	0
+Bryan	54	Pulse	0	1560000	33549	NA
+Bryan	55	Picture	jitter3	1566617	0	1	7698	1	0	next	other	0
+Bryan	55	Picture	go	1574315	7698	1	2678	1	7540	2500	other	0
+Bryan	55	Picture	18	1576993	10376	1	9707	1	10040	10000	miss	0
+Bryan	55	Pulse	0	1580000	13383	NA
+Bryan	56	Picture	miss	1586699	0	1	2678	1	0	next	other	0
+Bryan	56	Picture	jitter4	1589377	2678	1	17405	1	2500	17460	other	0
+Bryan	56	Pulse	0	1600000	13301	NA
+Bryan	57	Picture	jitter1	1606782	0	1	27614	1	0	next	other	0
+Bryan	57	Pulse	0	1620000	13218	NA
+Bryan	57	Picture	1	1634396	27614	1	5021	1	27460	5000	other	0
+Bryan	57	Picture	jitter2	1639416	32634	1	7531	1	32460	7540	other	0
+Bryan	57	Pulse	0	1640000	33218	NA
+Bryan	58	Picture	jitter3	1646947	0	1	14225	1	0	next	other	0
+Bryan	58	Pulse	0	1660000	13053	NA
+Bryan	58	Picture	go	1661173	14225	1	2678	1	14080	2500	other	0
+Bryan	58	Picture	1	1663850	16903	1	9707	1	16580	10000	miss	0
+Bryan	59	Picture	miss	1673557	0	1	2678	1	0	next	other	0
+Bryan	59	Picture	jitter4	1676235	2678	1	10878	1	2500	10920	other	0
+Bryan	59	Pulse	0	1680000	6443	NA
+Bryan	60	Picture	jitter1	1687113	0	1	24769	1	0	next	other	0
+Bryan	60	Pulse	0	1700000	12887	NA
+Bryan	60	Picture	1	1711881	24769	1	5021	1	24710	5000	other	0
+Bryan	60	Picture	jitter2	1716902	29789	1	10376	1	29710	10290	other	0
+Bryan	60	Pulse	0	1720000	32887	NA
+Bryan	61	Picture	jitter3	1727278	0	1	4184	1	0	next	other	0
+Bryan	61	Picture	go	1731462	4184	1	2678	1	4040	2500	other	0
+Bryan	61	Picture	11	1734140	6862	1	9707	1	6540	10000	miss	0
+Bryan	61	Pulse	0	1740000	12722	NA
+Bryan	62	Picture	miss	1743846	0	1	2678	1	0	next	other	0
+Bryan	62	Picture	jitter4	1746524	2678	1	20919	1	2500	20960	other	0
+Bryan	62	Pulse	0	1760000	16154	NA
+Bryan	63	Picture	jitter1	1767443	0	1	32300	1	0	next	other	0
+Bryan	63	Pulse	0	1780000	12557	NA
+Bryan	63	Picture	1	1799743	32300	1	5021	1	32210	5000	other	0
+Bryan	63	Pulse	0	1800000	32557	NA
+Bryan	63	Picture	jitter2	1804764	37320	1	2845	1	37210	2790	other	0
+Bryan	64	Picture	jitter3	1807609	0	1	21924	1	0	next	other	0
+Bryan	64	Pulse	0	1820000	12391	NA
+Bryan	64	Picture	go	1829532	21924	1	2678	1	21770	2500	other	0
+Bryan	64	Picture	20	1832210	24601	1	9707	1	24270	10000	miss	0
+Bryan	64	Pulse	0	1840000	32391	NA
+Bryan	65	Picture	miss	1841917	0	1	2678	1	0	next	other	0
+Bryan	65	Picture	jitter4	1844594	2678	1	3180	1	2500	3230	other	0
+Bryan	66	Picture	jitter1	1847774	0	1	16066	1	0	next	other	0
+Bryan	66	Pulse	0	1860000	12226	NA
+Bryan	66	Picture	4	1863840	16066	1	5021	1	15930	5000	other	0
+Bryan	66	Picture	jitter2	1868861	21087	1	19079	1	20930	19070	other	0
+Bryan	66	Pulse	0	1880000	32226	NA
+Bryan	67	Picture	jitter3	1887940	0	1	12719	1	0	next	other	0
+Bryan	67	Pulse	0	1900000	12060	NA
+Bryan	67	Picture	go	1900659	12719	1	2678	1	12660	2500	other	0
+Bryan	67	Picture	4	1903336	15397	1	9874	1	15160	10000	miss	0
+Bryan	68	Picture	miss	1913210	0	1	2678	1	0	next	other	0
+Bryan	68	Picture	jitter4	1915888	2678	1	12217	1	2500	12340	other	0
+Bryan	68	Pulse	0	1920000	6790	NA
+Bryan	69	Picture	jitter1	1928105	0	1	31630	1	0	next	other	0
+Bryan	69	Pulse	0	1940000	11895	NA
+Bryan	69	Picture	3	1959735	31630	1	5021	1	31550	5000	other	0
+Bryan	69	Pulse	0	1960000	31895	NA
+Bryan	69	Picture	jitter2	1964756	36651	1	3514	1	36550	3450	other	0
+Bryan	70	Picture	jitter3	1968270	0	1	14393	1	0	next	other	0
+Bryan	70	Pulse	0	1980000	11730	NA
+Bryan	70	Picture	go	1982663	14393	1	2678	1	14340	2500	other	0
+Bryan	70	Picture	2	1985341	17070	1	9874	1	16840	10000	miss	0
+Bryan	71	Picture	miss	1995215	0	1	2678	1	0	next	other	0
+Bryan	71	Picture	jitter4	1997892	2678	1	10543	1	2500	10660	other	0
+Bryan	71	Pulse	0	2000000	4785	NA
+Bryan	72	Picture	jitter1	2008436	0	1	13388	1	0	next	other	0
+Bryan	72	Pulse	0	2020000	11564	NA
+Bryan	72	Picture	1	2021824	13388	1	5021	1	13250	5000	other	0
+Bryan	72	Picture	jitter2	2026845	18409	1	21756	1	18250	21750	other	0
+Bryan	72	Pulse	0	2040000	31564	NA
+Bryan	73	Picture	jitter3	2048601	0	1	22928	1	0	next	other	0
+Bryan	73	Pulse	0	2060000	11399	NA
+Bryan	73	Picture	go	2071529	22928	1	2678	1	22900	2500	other	0
+Bryan	73	Picture	11	2074206	25605	1	9874	1	25400	10000	miss	0
+Bryan	73	Pulse	0	2080000	31399	NA
+Bryan	74	Picture	miss	2084080	0	1	2678	1	0	next	other	0
+Bryan	74	Picture	jitter4	2086758	2678	1	2008	1	2500	2100	other	0
+Bryan	75	Picture	jitter1	2088766	0	1	12217	1	0	next	other	0
+Bryan	75	Pulse	0	2100000	11234	NA
+Bryan	75	Picture	2	2100983	12217	1	5021	1	12030	5000	other	0
+Bryan	75	Picture	jitter2	2106004	17238	1	22928	1	17030	22970	other	0
+Bryan	75	Pulse	0	2120000	31234	NA
+Bryan	76	Picture	jitter3	2128932	0	1	3682	1	0	next	other	0
+Bryan	76	Picture	go	2132614	3682	1	2678	1	3640	2500	other	0
+Bryan	76	Picture	20	2135291	6360	1	9874	1	6140	10000	miss	0
+Bryan	76	Pulse	0	2140000	11068	NA
+Bryan	77	Picture	miss	2145165	0	1	2678	1	0	next	other	0
+Bryan	77	Picture	jitter4	2147843	2678	1	26195	1	2500	21360	other	0
+Bryan	77	Pulse	0	2160000	14835	NA

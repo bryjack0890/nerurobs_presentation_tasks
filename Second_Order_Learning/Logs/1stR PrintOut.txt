@@ -1,0 +1,57 @@
+Subject Name: 
+
+Instruction Cue Time: 500
+Go Time: 250
+Reaction Cue Time: 1000
+Feedback Time: 250
+Instruction Period Time: 4000
+Response Period Time: 4000
+
+Start Trial 1.
+Jitter 1 : 459
+Instruction Cue : 1
+Jitter 2 : 3041
+Jitter 3: 292
+Response Cue: 4
+Reaction Time: 442
+Correct Button: 1
+Button Pressed: 2
+Jitter 4: 2208
+End Trial 1.
+
+Start Trial 2.
+Jitter 1 : 1781
+Instruction Cue : 2
+Jitter 2 : 1719
+Jitter 3: 496
+Response Cue: 21
+Reaction Time: 410
+Correct Button: 2
+Button Pressed: 3
+Jitter 4: 2004
+End Trial 2.
+
+Start Trial 3.
+Jitter 1 : 1727
+Instruction Cue : 3
+Jitter 2 : 1773
+Jitter 3: 979
+Response Cue: 11
+Reaction Time: 679
+Correct Button: 3
+Button Pressed: 1
+Jitter 4: 1521
+End Trial 3.
+
+Start Trial 4.
+Jitter 1 : 2303
+Instruction Cue : 4
+Jitter 2 : 1197
+Jitter 3: 254
+Response Cue: 11
+Reaction Time: 507
+Correct Button: 4
+Button Pressed: 4
+Jitter 4: 2246
+End Trial 4.
+

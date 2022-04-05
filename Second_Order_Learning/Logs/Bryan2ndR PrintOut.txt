@@ -1,0 +1,309 @@
+Subject Name: Bryan
+
+Instruction Cue Time: 500
+Go Time: 250
+Reaction Cue Time: 1000
+Feedback Time: 250
+Instruction Period Time: 4000
+Response Period Time: 4000
+
+Start Trial 1.
+Jitter 1 : 1346
+Instruction Cue : 2
+Jitter 2 : 2154
+Jitter 3: 524
+Response Cue: 3
+Reaction Time: 0
+Correct Button: 4
+Button Pressed: 0
+Jitter 4: 1976
+End Trial 1.
+
+Start Trial 2.
+Jitter 1 : 2023
+Instruction Cue : 4
+Jitter 2 : 1477
+Jitter 3: 1826
+Response Cue: 7
+Reaction Time: 0
+Correct Button: 2
+Button Pressed: 0
+Jitter 4: 674
+End Trial 2.
+
+Start Trial 3.
+Jitter 1 : 1557
+Instruction Cue : 2
+Jitter 2 : 1943
+Jitter 3: 2105
+Response Cue: 7
+Reaction Time: 0
+Correct Button: 1
+Button Pressed: 0
+Jitter 4: 395
+End Trial 3.
+
+Start Trial 4.
+Jitter 1 : 3114
+Instruction Cue : 4
+Jitter 2 : 386
+Jitter 3: 2252
+Response Cue: 17
+Reaction Time: 0
+Correct Button: 1
+Button Pressed: 0
+Jitter 4: 248
+End Trial 4.
+
+Start Trial 5.
+Jitter 1 : 956
+Instruction Cue : 4
+Jitter 2 : 2544
+Jitter 3: 1520
+Response Cue: 21
+Reaction Time: 0
+Correct Button: 2
+Button Pressed: 0
+Jitter 4: 980
+End Trial 5.
+
+Start Trial 6.
+Jitter 1 : 3076
+Instruction Cue : 2
+Jitter 2 : 424
+Jitter 3: 1393
+Response Cue: 18
+Reaction Time: 0
+Correct Button: 4
+Button Pressed: 0
+Jitter 4: 1107
+End Trial 6.
+
+Start Trial 7.
+Jitter 1 : 2507
+Instruction Cue : 2
+Jitter 2 : 993
+Jitter 3: 1803
+Response Cue: 22
+Reaction Time: 0
+Correct Button: 1
+Button Pressed: 0
+Jitter 4: 697
+End Trial 7.
+
+Start Trial 8.
+Jitter 1 : 3283
+Instruction Cue : 3
+Jitter 2 : 217
+Jitter 3: 1361
+Response Cue: 24
+Reaction Time: 0
+Correct Button: 1
+Button Pressed: 0
+Jitter 4: 1139
+End Trial 8.
+
+Start Trial 9.
+Jitter 1 : 2457
+Instruction Cue : 2
+Jitter 2 : 1043
+Jitter 3: 1214
+Response Cue: 13
+Reaction Time: 0
+Correct Button: 2
+Button Pressed: 0
+Jitter 4: 1286
+End Trial 9.
+
+Start Trial 10.
+Jitter 1 : 455
+Instruction Cue : 3
+Jitter 2 : 3045
+Jitter 3: 1739
+Response Cue: 5
+Reaction Time: 0
+Correct Button: 4
+Button Pressed: 0
+Jitter 4: 761
+End Trial 10.
+
+Start Trial 11.
+Jitter 1 : 512
+Instruction Cue : 4
+Jitter 2 : 2988
+Jitter 3: 1437
+Response Cue: 15
+Reaction Time: 0
+Correct Button: 1
+Button Pressed: 0
+Jitter 4: 1063
+End Trial 11.
+
+Start Trial 12.
+Jitter 1 : 2186
+Instruction Cue : 3
+Jitter 2 : 1314
+Jitter 3: 1976
+Response Cue: 4
+Reaction Time: 0
+Correct Button: 4
+Button Pressed: 0
+Jitter 4: 524
+End Trial 12.
+
+Start Trial 13.
+Jitter 1 : 931
+Instruction Cue : 3
+Jitter 2 : 2569
+Jitter 3: 2161
+Response Cue: 25
+Reaction Time: 0
+Correct Button: 1
+Button Pressed: 0
+Jitter 4: 339
+End Trial 13.
+
+Start Trial 14.
+Jitter 1 : 916
+Instruction Cue : 4
+Jitter 2 : 2584
+Jitter 3: 1614
+Response Cue: 15
+Reaction Time: 0
+Correct Button: 1
+Button Pressed: 0
+Jitter 4: 886
+End Trial 14.
+
+Start Trial 15.
+Jitter 1 : 2182
+Instruction Cue : 2
+Jitter 2 : 1318
+Jitter 3: 1769
+Response Cue: 20
+Reaction Time: 0
+Correct Button: 3
+Button Pressed: 0
+Jitter 4: 731
+End Trial 15.
+
+Start Trial 16.
+Jitter 1 : 2192
+Instruction Cue : 3
+Jitter 2 : 1308
+Jitter 3: 1007
+Response Cue: 23
+Reaction Time: 0
+Correct Button: 4
+Button Pressed: 0
+Jitter 4: 1493
+End Trial 16.
+
+Start Trial 17.
+Jitter 1 : 546
+Instruction Cue : 1
+Jitter 2 : 2954
+Jitter 3: 567
+Response Cue: 6
+Reaction Time: 0
+Correct Button: 4
+Button Pressed: 0
+Jitter 4: 1933
+End Trial 17.
+
+Start Trial 18.
+Jitter 1 : 3276
+Instruction Cue : 4
+Jitter 2 : 224
+Jitter 3: 1569
+Response Cue: 11
+Reaction Time: 0
+Correct Button: 2
+Button Pressed: 0
+Jitter 4: 931
+End Trial 18.
+
+Start Trial 19.
+Jitter 1 : 393
+Instruction Cue : 3
+Jitter 2 : 3107
+Jitter 3: 163
+Response Cue: 4
+Reaction Time: 0
+Correct Button: 4
+Button Pressed: 0
+Jitter 4: 2337
+End Trial 19.
+
+Start Trial 20.
+Jitter 1 : 3385
+Instruction Cue : 4
+Jitter 2 : 115
+Jitter 3: 710
+Response Cue: 22
+Reaction Time: 0
+Correct Button: 4
+Button Pressed: 0
+Jitter 4: 1790
+End Trial 20.
+
+Start Trial 21.
+Jitter 1 : 783
+Instruction Cue : 1
+Jitter 2 : 2717
+Jitter 3: 1419
+Response Cue: 18
+Reaction Time: 0
+Correct Button: 2
+Button Pressed: 0
+Jitter 4: 1081
+End Trial 21.
+
+Start Trial 22.
+Jitter 1 : 783
+Instruction Cue : 3
+Jitter 2 : 2717
+Jitter 3: 1508
+Response Cue: 7
+Reaction Time: 0
+Correct Button: 3
+Button Pressed: 0
+Jitter 4: 992
+End Trial 22.
+
+Start Trial 23.
+Jitter 1 : 2801
+Instruction Cue : 1
+Jitter 2 : 699
+Jitter 3: 1357
+Response Cue: 20
+Reaction Time: 0
+Correct Button: 1
+Button Pressed: 0
+Jitter 4: 1143
+End Trial 23.
+
+Start Trial 24.
+Jitter 1 : 2412
+Instruction Cue : 3
+Jitter 2 : 1088
+Jitter 3: 2274
+Response Cue: 13
+Reaction Time: 0
+Correct Button: 4
+Button Pressed: 0
+Jitter 4: 226
+End Trial 24.
+
+Start Trial 25.
+Jitter 1 : 579
+Instruction Cue : 1
+Jitter 2 : 2921
+Jitter 3: 2327
+Response Cue: 3
+Reaction Time: 0
+Correct Button: 1
+Button Pressed: 0
+Jitter 4: 173
+End Trial 25.
+
